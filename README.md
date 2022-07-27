@@ -1,7 +1,7 @@
 # Tiktok/Bilibili 弹幕操控
 采用[Tiktok_Barrage](https://github.com/XiaoXinYo/Tiktok_Barrage)
 
-在[application.js](https://github.dev/Coaixy/2048_Live_Game/js/application.js)中切换Tiktok/Bilibili
+在[application.js](https://github.com/Coaixy/2048_Live_Game/js/application.js)中切换Tiktok/Bilibili
 ## 抖音
 1. 先运行目录下的Tiktok_Server.py文件，再将Tiktok_Barrage.js中的代码运行在目标直播间中。
 
