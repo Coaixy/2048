@@ -1,12 +1,14 @@
-# 抖音/B站 弹幕操控
+# Tiktok/Bilibili 弹幕操控
 采用[Tiktok_Barrage](https://github.com/XiaoXinYo/Tiktok_Barrage)
-## 抖音
-1. 先运行目录下的server.py文件，再将barrage.js中的代码运行在目标直播间中。
 
-2. server.py中可设置游戏间隔。barrage.js配置见Tiktok_Barrage仓库。
+在[application.js](https://github.dev/Coaixy/2048_Live_Game/js/application.js)中切换Tiktok/Bilibili
+## 抖音
+1. 先运行目录下的Tiktok_Server.py文件，再将Tiktok_Barrage.js中的代码运行在目标直播间中。
+
+2. TikTok_Server.py中可设置游戏间隔。Tiktok_Barrage.js配置见Tiktok_Barrage仓库。
 
 ## B站
-1. 运行Bilibili_Server.py，再将Bilibili_barrage.js中的代码运行在目标直播间中。
+1. 运行Bilibili_Server.py，再将Bilibili_Barrage.js中的代码运行在目标直播间中。
 
 # 2048
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
